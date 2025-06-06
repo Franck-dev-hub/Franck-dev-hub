@@ -6,7 +6,7 @@ Before starting my formal training, I was already passionate about web developme
 
 ---
 
-## 💻 Current Focus
+## 💻 Current Learning & Skills
 
 <details>
 <summary><strong>Programming Languages</strong></summary>
