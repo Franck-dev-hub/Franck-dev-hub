@@ -1,4 +1,4 @@
-#### Hello there 👋
+v#### Hello there 👋
 
 ## 🚀 **Web & Mobile Developer in Training | Self-Taught Enthusiast**
 
@@ -133,7 +133,7 @@ Before starting my formal training, I was already passionate about web developme
 ## 🔧 Projects
 
 I’m actively working on portfolio projects and taking part in coding challenges.  
-Feel free to browse my repos to see how I grow as a developer — one commit at a time!
+In the meantime, here's my web [resume](https://franck-dev-hub.github.io/web-resume)
 
 ---
 
