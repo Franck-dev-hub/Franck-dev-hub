@@ -150,5 +150,5 @@ Whether you’re a fellow learner, recruiter, or developer with a cool idea — 
 ---
 
 <p align="center">
-  <em>“Learning never exhausts the mind.” – Leonardo da Vinci</em>
+  <em>“Knowledge is only valuable if it is shared.” – Marie Curie</em>
 </p>
