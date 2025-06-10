@@ -1,4 +1,4 @@
-v#### Hello there 👋
+#### Hello there 👋
 
 ## 🚀 **Web & Mobile Developer in Training | Self-Taught Enthusiast**
 
@@ -150,5 +150,5 @@ Whether you’re a fellow learner, recruiter, or developer with a cool idea — 
 ---
 
 <p align="center">
-  <em>“Knowledge is only valuable if it is shared.” – Marie Curie</em>
+  <em>“Knowledge is only valuable if it is shared.” – John Doe</em>
 </p>
