@@ -150,5 +150,5 @@ Whether you’re a fellow learner, recruiter, or developer with a cool idea — 
 ---
 
 <p align="center">
-  <em>“Knowledge is only valuable if it is shared.” – John Doe</em>
+  <em>“Knowledge is only valuable if it is shared.”</em>
 </p>
