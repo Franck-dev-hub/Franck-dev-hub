@@ -167,5 +167,5 @@ I'm always excited to connect with fellow developers, learners, and potential co
 ---
 
 <p align="center">
-  <em>“Thanks for visiting my profile! Feel free to star my repositories if you find them helpful. ⭐”</em>
+  <em>Thanks for visiting my profile! Feel free to star my repositories if you find them helpful ⭐</em>
 </p>
