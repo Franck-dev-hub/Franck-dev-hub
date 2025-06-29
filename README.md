@@ -142,7 +142,7 @@ In the meantime, here's my web [![Firefox](https://img.shields.io/badge/Live_res
 
 ---
 
-## 📊 **GitHub Public Statistics**
+## 📊 **Public Statistics**
 
 <div align="center">
   <table>
@@ -150,6 +150,11 @@ In the meantime, here's my web [![Firefox](https://img.shields.io/badge/Live_res
       <td><img src="https://github-readme-stats.vercel.app/api?username=Franck-dev-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa" width="100%"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-dev-hub&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa&cache_seconds=3600&langs_count=20" width="100%"/></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Franck-dev-hub&theme=dark&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=FFFFFF&currStreakLabel=61DAFB&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/></td>
+      <!-- <td><picture>
+          <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/franck-dev-hub?theme=light">
+          <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/franck-dev-hub?theme=dark">
+          <img src="https://leetcard.jacoblin.cool/franck-dev-hub" alt="LeetCode statistics"></picture>
+      </td> -->
     </tr>
   </table>
 </div>
@@ -168,4 +173,9 @@ I'm always excited to connect with fellow developers, learners, and potential co
 
 <p align="center">
   <em>Thanks for visiting my profile! Feel free to star my repositories if you find them helpful ⭐</em>
+</p>
+<p align="right">
+    <a href="https://shields.io/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Franck-dev-hub?style=flat&label=Followers" alt="GitHub followers badge"></a>
+    <a href="https://shields.io/"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Franck-dev-hub?style=flat&label=Stars" alt="GitHub stars badge"></a>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter/"><img src="https://komarev.com/ghpvc/?username=Franck-dev-hub&label=Views" alt="GitHub views badge"></a>
 </p>
