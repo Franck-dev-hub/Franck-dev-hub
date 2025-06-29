@@ -1,16 +1,29 @@
-#### Hello there 👋
+# 👋 Hello, I'm Franck
 
-## 🚀 **Web & Mobile Developer in Training | Self-Taught Enthusiast**
+## 🚀 **Web & Web Mobile Developer in Training | Self-Taught Enthusiast**
 
-Before starting my formal training, I was already passionate about web development — building personal projects, experimenting with new technologies, and learning by doing. Now, I'm deepening my skills through an intensive **Web & Mobile Web Developer** program to turn that passion into a professional career.
+> *"Knowledge is only valuable if it is shared."*
+
+I'm currently deepening my expertise through an intensive **Web & Mobile Web Developer** program at <a href="https://www.holbertonschool.com" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://cdn.prod.website-files.com/6105315644a26f77912a1ada/611e13a82c74407dfebd313f_semi-logo-holberton-01.svg" alt="Holberton" width="24" height="24" style="vertical-align: middle;" /></a>.
+My journey from self-taught enthusiast to professional developer is driven by curiosity, continuous learning, and the desire to create meaningful digital experiences.
 
 ---
 
-## 💻 Current Learning & Skills
+## 🎯 **About Me**
+
+- 🌍 **Location:** France
+- 🎓 **Currently:** Web & Mobile Web Developer Training
+- 💼 **Focus:** Full Stack Development, C, Modern Web Technologies
+- 🚀 **Goal:** Building scalable, user-centric applications
+- 🤝 **Open to:** Work, Collaborations, Open Source Contributions, Learning Opportunities
+
+---
+
+## 🛠️ **Tech Stack & Skills**
 
 <details>
-<summary><strong>Programming Languages</strong></summary>
-
+<summary><strong>💻 Programming Languages</strong></summary>
+  
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](#)
@@ -23,10 +36,10 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-<summary><strong>Web Development</strong></summary>
+<summary><strong>🌐 Web Development</strong></summary>
   
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
@@ -34,7 +47,7 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-<summary><strong>Command Line & Shells</strong></summary>
+<summary><strong>🐚 Command Line & Shells</strong></summary>
 
 [![Shell](https://img.shields.io/badge/Shell-89E051?logo=powershell&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](#)
@@ -43,7 +56,7 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-<summary><strong>Databases</strong></summary>
+<summary><strong>🗄️ Databases</strong></summary>
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](#)
@@ -51,7 +64,7 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-<summary><strong>Data formats</strong></summary>
+<summary><strong>📄 Data formats</strong></summary>
 
 [![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
@@ -62,7 +75,7 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-<summary><strong>DevOps & Version Control</strong></summary>
+<summary><strong>🛠️ DevOps & Version Control</strong></summary>
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
@@ -71,7 +84,7 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-<summary><strong>IDEs & Text Editors</strong></summary>
+<summary><strong>📝 IDEs & Text Editors</strong></summary>
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
@@ -89,7 +102,7 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-<summary><strong>Game Engines</strong></summary>
+<summary><strong>🎮 Game Engines</strong></summary>
 
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
 [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)](#)
@@ -98,7 +111,7 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-<summary><strong>AI, Data Science & ML</strong></summary>
+<summary><strong>🤖 AI, Data Science & ML</strong></summary>
   
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
@@ -111,7 +124,7 @@ Before starting my formal training, I was already passionate about web developme
 </details>
 
 <details>
-  <summary><strong>Productivity & Collaboration Tools</strong></summary>
+  <summary><strong>📈 Productivity & Collaboration Tools</strong></summary>
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
@@ -122,33 +135,37 @@ Before starting my formal training, I was already passionate about web developme
 
 ---
 
-## 🎯 Goals & Objectives
-
-- Build real-world, practical applications  
-- Write clean, maintainable, and scalable code  
-- Contribute to open-source projects and grow through hands-on experience
-
----
-
 ## 🔧 Projects
 
 I’m actively working on portfolio projects and taking part in coding challenges.  
-In the meantime, here's my web [resume](https://franck-dev-hub.github.io/web-resume)
+In the meantime, here's my web [![Firefox](https://img.shields.io/badge/Live_resume-FF7139?logo=Firefox&logoColor=white)](https://franck-dev-hub.github.io/web-resume)
 
 ---
 
-## 🧠 Most Public Used Languages
+## 📊 **GitHub Public Statistics**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-dev-hub&layout=compact&theme=dark&cache_seconds=3600&langs_count=20&hide_title=true)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Franck-dev-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa" width="100%"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-dev-hub&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa&cache_seconds=3600&langs_count=20" width="100%"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Franck-dev-hub&theme=dark&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=FFFFFF&currStreakLabel=61DAFB&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🤝 Let’s Connect!
+## 🤝 **Let's Connect & Collaborate!**
 
-Whether you’re a fellow learner, recruiter, or developer with a cool idea — feel free to reach out or collaborate!
+I'm always excited to connect with fellow developers, learners, and potential collaborators. Whether you want to:
+- 💡 **Discuss technology** and share knowledge
+- 🤝 **Collaborate** on interesting projects
+- 📚 **Learn together** and grow as developers
+- 💼 **Explore opportunities** in development
 
 ---
 
 <p align="center">
-  <em>“Knowledge is only valuable if it is shared.”</em>
+  <em>“Thanks for visiting my profile! Feel free to star my repositories if you find them helpful. ⭐”</em>
 </p>
