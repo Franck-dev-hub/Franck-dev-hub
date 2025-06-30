@@ -148,13 +148,14 @@ In the meantime, here's my web [![Firefox](https://img.shields.io/badge/Live_res
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Franck-dev-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa" width="100%"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-dev-hub&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa&cache_seconds=3600&langs_count=20" width="100%"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-dev-hub&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa&cache_seconds=3600&langs_count=10" width="100%"/></td>
+    </tr><tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Franck-dev-hub&theme=dark&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=FFFFFF&currStreakLabel=61DAFB&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="100%"/></td>
-      <!-- <td><picture>
+      <td><picture>
           <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/franck-dev-hub?theme=light">
           <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/franck-dev-hub?theme=dark">
           <img src="https://leetcard.jacoblin.cool/franck-dev-hub" alt="LeetCode statistics"></picture>
-      </td> -->
+      </td>
     </tr>
   </table>
 </div>
