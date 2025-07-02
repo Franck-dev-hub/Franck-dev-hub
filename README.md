@@ -148,15 +148,14 @@ In the meantime, here's my web [![Firefox](https://img.shields.io/badge/Live_res
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Franck-dev-hub&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa&cache_seconds=3600" width="100%"/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franck-dev-hub&theme=dark&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=FFFFFF&currStreakLabel=61DAFB&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&cache_seconds=3600" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Franck-dev-hub&theme=dark&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs&ring_color=336fff&cache_seconds=3600" width="100%"/><br/>
+      <img src="https://streak-stats.demolab.com?user=Franck-dev-hub&theme=dark&hide_border=true&background=00000000&ring=336fff&fire=ff6f33&cache_seconds=3600" width="100%"/>
     </td>
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-dev-hub&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=f1f5f9&icon_color=60a5fa&cache_seconds=3600&langs_count=20" height="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-dev-hub&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide_title=true&hide=shaderlab&text_color=f1f5f9&icon_color=60a5fa&cache_seconds=3600&langs_count=20" height="100%"/>
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
