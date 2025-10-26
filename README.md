@@ -23,7 +23,7 @@ My journey from self-taught enthusiast to professional developer is driven by cu
 ## 🔧 Projects
 
 I’m actively working on portfolio projects and taking part in coding challenges.  
-In the meantime, here's my web [![Firefox](https://img.shields.io/badge/Live_resume-FF7139?logo=Firefox&logoColor=white)](https://franck-dev-hub.github.io/web-resume)
+In the meantime, here's my [![Firefox](https://img.shields.io/badge/resume-FF7139)](https://github.com/Franck-dev-hub/web-resume/blob/main/public/assets/CV%20Spadotto%20Franck.pdf)
 
 ---
 
