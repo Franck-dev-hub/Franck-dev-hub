@@ -1,33 +1,32 @@
 # 👋 Hello, I'm Franck
 
-## 🚀 **Web & Web Mobile Developer in Training | Self-Taught Enthusiast**
+## **Web / web mobile & machine learning Developer**
 
 > *"Knowledge is only valuable if it is shared."*
 
-I'm currently deepening my expertise through an intensive **Web & Mobile Web Developer** program at <a href="https://www.holbertonschool.com" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://cdn.prod.website-files.com/6105315644a26f77912a1ada/611e13a82c74407dfebd313f_semi-logo-holberton-01.svg" alt="Holberton" width="24" height="24" style="vertical-align: middle;" /></a>.
-My journey from self-taught enthusiast to professional developer is driven by curiosity, continuous learning, and the desire to create meaningful digital experiences.
+I'm currently deepening my knowledge about **web & mobile web developement** at <a href="https://www.holbertonschool.com" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://cdn.prod.website-files.com/6105315644a26f77912a1ada/611e13a82c74407dfebd313f_semi-logo-holberton-01.svg" alt="Holberton" width="24" height="24" style="vertical-align: middle;" /></a>  
+My journey from self-taught to professional developer is driven by curiosity, continuous learning, and the desire to create meaningful digital experiences.
 
 ---
 
-## 🎯 **About Me**
+## **About Me**
 
-- 🌍 **Location:** France
-- 🎓 **Currently:** Web & Mobile Web Developer Training
-- 💼 **Focus:** Full Stack and Game Development, C, ML/AI
-- 🚀 **Goal:** Building scalable, user-centric applications
-- 🤝 **Open to:** Work, Collaborations, Open Source Contributions, Learning Opportunities
-- 🖥️ **Distro:** I use Arch btw.
+- **Location:** France
+- **Currently:** Web & Mobile Web Developer Training
+- **Focus:** Full Stack, game Development, machine learning and AI
+- **Open to:** Work, collaborations, open source contributions, learning opportunities
+- **Distro:** I use Arch btw.
 
 ---
 
-## 🔧 Projects
+## Projects
 
 I’m working on portfolio projects and taking part in coding challenges.  
 I also work on my main project : [Card Vault](https://github.com/Franck-dev-hub/card_vault)
 
 ---
 
-## 📊 **Public Statistics**
+## **Public Statistics**
 
 <div align="center">
 <table>
@@ -42,16 +41,6 @@ I also work on my main project : [Card Vault](https://github.com/Franck-dev-hub/
   </tr>
 </table>
 </div>
-
----
-
-## 🤝 **Let's Connect & Collaborate!**
-
-I'm always excited to connect with fellow developers, learners, and potential collaborators. Whether you want to:
-- 💡 **Discuss technology** and share knowledge
-- 🤝 **Collaborate** on interesting projects
-- 📚 **Learn together** and grow as developers
-- 💼 **Explore opportunities** in development
 
 ---
 
