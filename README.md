@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Franck
 
-## **Web / web mobile & machine learning Developer**
+## **Fullstack developer & machine learning Developer**
 
 > *"Knowledge is only valuable if it is shared."*
 
