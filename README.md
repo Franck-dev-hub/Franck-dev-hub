@@ -4,7 +4,7 @@
 
 > *"Knowledge is only valuable if it is shared."*
 
-I'm currently deepening my knowledge about **web & web mobile development**
+I'm currently deepening my knowledge about **web & web mobile development**  
 My journey from self-taught to professional developer is driven by curiosity, continuous learning, and the desire to create meaningful digital experiences.
 
 ---
