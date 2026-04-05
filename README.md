@@ -1,21 +1,22 @@
 # 👋 Hello, I'm Franck
 
-## **Fullstack developer & machine learning Developer**
+## **Fullstack developer & machine learning learner**
 
 > *"Knowledge is only valuable if it is shared."*
 
-I'm currently deepening my knowledge about **web & mobile web developement** at <a href="https://www.holbertonschool.com" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://cdn.prod.website-files.com/6105315644a26f77912a1ada/611e13a82c74407dfebd313f_semi-logo-holberton-01.svg" alt="Holberton" width="24" height="24" style="vertical-align: middle;" /></a>  
+I'm currently deepening my knowledge about **web & web mobile development**
 My journey from self-taught to professional developer is driven by curiosity, continuous learning, and the desire to create meaningful digital experiences.
 
 ---
 
 ## **About Me**
 
-- **Location:** France
-- **Currently:** Web & Mobile Web Developer Training
-- **Focus:** Full Stack, game Development, machine learning and AI
+- **Location:** France 🇫🇷
+- **Currently:** Web & web mobile developer
+- **Focus:** ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)![Magento](https://img.shields.io/badge/Magento-%23ee672f.svg?logo=magento&logoColor=white)
+- **Dev hobby:** Full Stack, game Development, machine learning and AI
 - **Open to:** Work, collaborations, open source contributions, learning opportunities
-- **Distro:** I use Arch btw.
+- **Distro:** I use Arch btw 🐧
 
 ---
 
@@ -48,7 +49,7 @@ I also work on my main project : [Card Vault](https://github.com/Franck-dev-hub/
   <em>Thanks for visiting my profile! Feel free to star my repositories if you find them helpful ⭐</em>
 </p>
 <p align="right">
-    <a href="https://shields.io/"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Franck-dev-hub?style=flat&label=Followers" alt="GitHub followers badge"></a>
-    <a href="https://shields.io/"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Franck-dev-hub?style=flat&label=Stars" alt="GitHub stars badge"></a>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter/"><img src="https://komarev.com/ghpvc/?username=Franck-dev-hub&label=Views" alt="GitHub views badge"></a>
+    <a href="https://github.com/Franck-dev-hub"><img src="https://img.shields.io/github/followers/Franck-dev-hub?style=flat&label=Followers" alt="GitHub followers"></a>
+    <a href="https://github.com/Franck-dev-hub"><img src="https://img.shields.io/github/stars/Franck-dev-hub?style=flat&label=Stars" alt="GitHub stars"></a>
+    <img src="https://komarev.com/ghpvc/?username=Franck-dev-hub&label=Views" alt="GitHub views">
 </p>
