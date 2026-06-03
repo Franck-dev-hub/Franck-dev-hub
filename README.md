@@ -13,7 +13,7 @@ My journey from self-taught to professional developer is driven by curiosity, co
 
 - **Location:** France 🇫🇷
 - **Currently:** Web & web mobile developer
-- **Focus:** ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)![Sylius](https://img.shields.io/badge/Sylius-%231D7C5A.svg?logo=symfony&logoColor=white)
+- **Focus:** ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)![Sylius](https://img.shields.io/badge/Sylius-%22B99A.svg?logo=symfony&logoColor=white)
 - **Dev hobby:** Full Stack, game Development, machine learning and AI
 - **Open to:** Work, collaborations, open source contributions, learning opportunities
 - **Distro:** I use Arch btw 🐧
