@@ -24,7 +24,7 @@ My journey from self-taught to professional developer is driven by curiosity, co
 
 I’m working on portfolio projects and taking part in coding challenges.  
 I also work on my main project : [Card Vault](https://github.com/Franck-dev-hub/card_vault)
-
+You can find my pro Gitlab account : [Gitlab](https://gitlab.com/FranckEmagma)
 ---
 
 <p align="center">
