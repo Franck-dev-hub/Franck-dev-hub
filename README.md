@@ -14,9 +14,10 @@ My journey from self-taught to professional developer is driven by curiosity, co
 - **Location:** France 🇫🇷
 - **Currently:** Web & web mobile developer
 - **Focus:** ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)![Sylius](https://img.shields.io/badge/Sylius-%22B99A.svg?logo=symfony&logoColor=white)
-- **Dev hobby:** Full Stack, game Development, machine learning and AI
+- **Dev hobby:** Full Stack, game Development, machine learning and daily tools
 - **Open to:** Work, collaborations, open source contributions, learning opportunities
 - **Distro:** I use Arch btw 🐧
+- **Pro Gitlab:** [Gitlab](https://gitlab.com/FranckEmagma)
 
 ---
 
@@ -24,7 +25,7 @@ My journey from self-taught to professional developer is driven by curiosity, co
 
 I’m working on portfolio projects and taking part in coding challenges.  
 I also work on my main project : [Card Vault](https://github.com/Franck-dev-hub/card_vault)  
-You can find my pro Gitlab account : [Gitlab](https://gitlab.com/FranckEmagma)
+And there is my portfolio (WIP) : [Portfolio](https://github.com/Franck-dev-hub/portfolio)  
 
 ---
 
