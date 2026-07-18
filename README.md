@@ -27,24 +27,6 @@ I also work on my main project : [Card Vault](https://github.com/Franck-dev-hub/
 
 ---
 
-## **Public Statistics**
-
-<div align="center">
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Franck-dev-hub&theme=dark&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs&ring_color=336fff&cache_seconds=3600" width="100%"/><br/>
-      <img src="https://streak-stats.demolab.com?user=Franck-dev-hub&theme=dark&hide_border=true&background=00000000&ring=336fff&fire=ff6f33&cache_seconds=3600" width="100%"/>
-    </td>
-    <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franck-dev-hub&layout=compact&theme=dark&hide_border=true&bg_color=00000000&hide_title=true&hide=shaderlab&text_color=f1f5f9&icon_color=60a5fa&cache_seconds=3600&langs_count=20" height="100%"/>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
 <p align="center">
   <em>Thanks for visiting my profile! Feel free to star my repositories if you find them helpful ⭐</em>
 </p>
