@@ -15,8 +15,7 @@ My journey from self-taught to professional developer is driven by curiosity, co
 - **Currently:** Web & web mobile developer
 - **Focus:** ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony) ![Sylius](https://img.shields.io/badge/Sylius-%22B99A.svg?logo=symfony&logoColor=white)
 - **Dev hobby:** Full Stack, game Development, machine learning and daily tools
-- **Open to:** Work, collaborations, open source contributions, learning opportunities
-- **Distro:** I use Arch btw 🐧
+- **Open to:** Collaborations, open source contributions, learning opportunities
 - **My pro Gitlab:** [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/FranckEmagma)
 
 ---
