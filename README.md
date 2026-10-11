@@ -22,7 +22,7 @@ My journey from self-taught to professional developer is driven by curiosity, co
 
 ## Projects
 
-I also work on my main project : [![Card vault](https://img.shields.io/website?url=https://card-vault.fr&label=Card%20Vault)](https://card-vault.fr) [![Release](https://img.shields.io/github/v/release/Franck-dev-hub/card_vault?label=Release)](https://github.com/Franck-dev-hub/card_vault) [![Last commit](https://img.shields.io/github/last-commit/Franck-dev-hub/card_vault)](https://github.com/Franck-dev-hub/card_vault)  
+I also work on my main project : [![Card vault](https://img.shields.io/website?url=https://card-vault.fr&label=Card%20Vault)](https://card-vault.fr) [![Release](https://img.shields.io/github/v/release/Franck-dev-hub/card-vault?label=Release)](https://github.com/Franck-dev-hub/card-vault) [![Last commit](https://img.shields.io/github/last-commit/Franck-dev-hub/card-vault)](https://github.com/Franck-dev-hub/card-vault)  
 And there is my portfolio (WIP) : [![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Ffranck-dev-hub.github.io%2Fportfolio%2F&label=Portfolio)](https://franck-dev-hub.github.io/portfolio/) [![Release](https://img.shields.io/github/v/release/Franck-dev-hub/portfolio?label=Release)](https://github.com/Franck-dev-hub/portfolio) [![Last commit](https://img.shields.io/github/last-commit/Franck-dev-hub/portfolio)](https://github.com/Franck-dev-hub/portfolio)  
 
 ---
